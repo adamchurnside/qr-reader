@@ -135,7 +135,7 @@ const useStyles = makeStyles((theme) => ({
     background: "#5435b7",
     marginTop: 10,
     marginBottom: 20,
-    marginLeft: 5,
+    marginLeft: 6,
   },
 }));
 export default App;
